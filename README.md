@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/sebalies/Prueba_Jekyll/edit/main/otra.md) and ![Image](src)
+[Link](https://github.com/sebalies/Prueba_Jekyll/edit/main/otra) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
