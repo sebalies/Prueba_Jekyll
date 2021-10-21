@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/sebalies/Prueba_Jekyll/otra.md) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,7 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebalies/Prueba_Jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-A verte [otra](https://github.com/sebalies/Prueba_Jekyll/pag.html). 
 
 ### Support or Contact
 
