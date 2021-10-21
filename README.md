@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebalies/Prueba_Jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-A verte [otra](https://github.com/sebalies/Prueba_Jekyll/otra). 
+A verte [otra](https://github.com/sebalies/Prueba_Jekyll/). 
 
 ### Support or Contact
 
